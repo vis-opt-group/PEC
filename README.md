@@ -19,9 +19,9 @@ simultaneously, which fully indicates the practicability of PEC.
 * cuda11.1
 
 ### Testing
-* Prepare the data and put it in the specified folder #Input
+* Prepare the data and put it in './Input/'
 * Choose a specific model as needed (difficult.pt, medium.pt or easy.pt)
-* Run "test.py"
+* Run "PEC.py"
 
 ## Results on Low-light Image Enhancement
 <img src="Figs/LLIE_1.png" width="900px"/> 
@@ -35,14 +35,5 @@ simultaneously, which fully indicates the practicability of PEC.
 <img src="Figs/Seg_1.png" width="900px"/> 
 
 
-## Citation
-```bibtex
-@inproceedings{ma2022toward,
-  title={Toward Fast, Flexible, and Robust Low-Light Image Enhancement},
-  author={Ma, Long and Ma, Tengyu and Liu, Risheng and Fan, Xin and Luo, Zhongxuan},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={5637--5646},
-  year={2022}
-}
-```
+
 
