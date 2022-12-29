@@ -19,9 +19,14 @@ simultaneously, which fully indicates the practicability of PEC.
 * cuda11.1
 
 ### Testing
-* Prepare the data and put it in './Input/'
+#### UnderExposure Correction
+* Prepare the data and put it in './Input/under'
 * Set the parameters according to the test data and modify the *config.py* file
-* Run *PEC.py*
+* Run *pec_under.py*
+#### OverExposure Correction
+* Prepare the data and put it in './Input/over'
+* Set the parameters according to the test data and modify the *config.py* file
+* Run *pec_over.py*
 
 ## Results on Exposure Correction
 <img src="Figs/Exposure-Errors.png" width="1200px"/> 
