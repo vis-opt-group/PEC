@@ -20,8 +20,8 @@ simultaneously, which fully indicates the practicability of PEC.
 
 ### Testing
 * Prepare the data and put it in './Input/'
-* Choose a specific model as needed (difficult.pt, medium.pt or easy.pt)
-* Run "PEC.py"
+* Set the parameters according to the test data and modify the *config.py* file
+* Run *PEC.py*
 
 ## Results on Low-light Image Enhancement
 <img src="Figs/LLIE_1.png" width="900px"/> 
