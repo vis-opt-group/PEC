@@ -23,16 +23,14 @@ simultaneously, which fully indicates the practicability of PEC.
 * Set the parameters according to the test data and modify the *config.py* file
 * Run *PEC.py*
 
-## Results on Low-light Image Enhancement
-<img src="Figs/LLIE_1.png" width="900px"/> 
-<img src="Figs/LLIE_3.png" width="900px"/> 
+## Results on Exposure Correction
+<img src="Figs/Exposure-Errors.png" width="1200px"/> 
+
 
 ## Results on High-level Vision Tasks
-### Dark Face Detection
-<img src="Figs/Det_1.png" width="900px"/> 
+### Dark Face Detection and Nighttime Semantic Segmentation
+<img src="Figs/High-level-Vision-Tasks.png" width="1200px"/> 
 
-### Nighttime Semantic Segmentation
-<img src="Figs/Seg_1.png" width="900px"/> 
 
 
 
