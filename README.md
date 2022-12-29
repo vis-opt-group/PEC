@@ -21,11 +21,11 @@ simultaneously, which fully indicates the practicability of PEC.
 ### Testing
 #### UnderExposure Correction
 * Prepare the data and put it in './Input/under'
-* Set the parameters according to the test data and modify the *config.py* file
+* Set the parameters according to the underexposure data and modify the *config.py* file
 * Run *pec_under.py*
 #### OverExposure Correction
 * Prepare the data and put it in './Input/over'
-* Set the parameters according to the test data and modify the *config.py* file
+* Set the parameters according to the overexposure data and modify the *config.py* file
 * Run *pec_over.py*
 
 ## Results on Exposure Correction
