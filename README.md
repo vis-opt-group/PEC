@@ -13,20 +13,20 @@ simultaneously, which fully indicates the practicability of PEC.
 
 
 ## Codes
-### Requirements
+### Requirements for Python
 * python3.7
 * pytorch==1.8.0
 * cuda11.1
 
 ### Testing
-#### UnderExposure Correction
-* Prepare the data and put it in './Input/under'
-* Set the parameters according to the underexposure data and modify the *config.py* file
-* Run *pec_under.py*
-#### OverExposure Correction
-* Prepare the data and put it in './Input/over'
-* Set the parameters according to the overexposure data and modify the *config.py* file
-* Run *pec_over.py*
+#### Python
+* Prepare the data and put it in './Input/under' or './Input/over'
+* Set the parameters in *PEC.py* according to your data
+* Run *PEC.py*
+#### Matlab
+* Prepare the data and put it in './Input/under' or './Input/over'
+* Set the parameters in *PEC.m* according to your data
+* Run *PEC.m*
 
 ## Results on Exposure Correction
 <img src="Figs/Exposure-Errors.png" width="1200px"/> 
