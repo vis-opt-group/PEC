@@ -19,6 +19,7 @@ simultaneously, which fully indicates the practicability of PEC.
 * cuda11.1
 
 ### Testing
+* Please note that we have provided parameter examples for both overexposure correction and low exposure correction in different versions of the code for your reference
 #### Python
 * Prepare the data and put it in './Input/under' or './Input/over'
 * Set the parameters in *PEC.py* according to your data
